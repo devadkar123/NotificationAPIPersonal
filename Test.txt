@@ -1,2 +1,2 @@
 sdfsdfsdf
-sdsdsd pull done
+sdsdsd pull done ! do a restore of whts changed first.
